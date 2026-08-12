@@ -501,7 +501,7 @@ If you use scOPE in your research, please cite:
   year    = {2026},
   doi     = {10.64898/2026.07.24.740598},
   url     = {https://doi.org/10.64898/2026.07.24.740598},
-  note    = {Preprint posted July 26, 2026}
+  note    = {Preprint updated to v2 August 12, 2026}
 }
 ```
 
